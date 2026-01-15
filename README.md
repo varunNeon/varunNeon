@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Varun<br><br>- 🎓 MSc Data Science student<br>- 🧠 Stats • SQL • Python<br>- 📊 Working on analytics projects (EDA + dashboards)<br>- 🌱 Learning ML fundamentals<br>
+## 👋 Hi, I'm Varun<br><br>- MSc Data Science student<br>- Stats • SQL • Python<br>- Working on analytics projects (EDA + dashboards)<br>- Learning ML fundamentals<br>
 
 
 ## 🌐 Socials:
