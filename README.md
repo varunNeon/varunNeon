@@ -1,5 +1,3 @@
-# 💫 About Me:
-## 👋 Hi, I'm Varun<br><br>- MSc Data Science student<br>- Stats • SQL • Python<br>- Working on analytics projects (EDA + dashboards)<br>- Learning ML fundamentals<br>
 
 
 ## 🌐 Socials:
@@ -12,4 +10,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=varunNeon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunNeon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
